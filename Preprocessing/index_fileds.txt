@@ -1,0 +1,1 @@
+set(['object(%dot%)title', 'location', 'person', 'org', 'classifier'])
