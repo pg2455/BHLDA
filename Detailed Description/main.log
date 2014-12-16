@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  14 DEC 2014 01:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  16 DEC 2014 01:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1030,49 +1030,118 @@ Normal \dimen register pool exhausted, switching to extended pool.
 \Gm@layoutvoffset=\dimen260
 \Gm@dimlist=\toks38
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen261
+\captionmargin@=\dimen262
+\captionwidth=\dimen263
+\caption@tempdima=\dimen264
+\caption@indent=\dimen265
+\caption@parindent=\dimen266
+\caption@hangindent=\dimen267
+)
+\c@float@type=\count175
+\float@exts=\toks39
+\float@box=\box62
+\@floatcapt=\box63
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks40
+\flrow@foot=\insert233
+\FB@wd=\dimen268
+\FBo@wd=\dimen269
+\FBc@wd=\dimen270
+\FBo@ht=\skip123
+\FBc@ht=\skip124
+\FBf@ht=\skip125
+\FBo@max=\skip126
+\FBc@max=\skip127
+\FBf@max=\skip128
+\c@FBl@b=\count176
+\floatbox@depth=\count177
+\c@FRobj=\count178
+\c@FRsobj=\count179
+\Xhsize=\skip129
+\sXhsize=\skip130
+\Zhsize=\skip131
+\sZhsize=\skip132
+\flrow@rowbox=\box64
+\FR@Zunitlength=\dimen271
+\c@FBcnt=\count180
+\FPOScnt=\count181
+\LTleft=\skip133
+\LTright=\skip134
+\LTleft=\skip135
+\LTright=\skip136
+\flrow@types=\toks41
+)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2008/02/07
 
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
-\FV@CodeLineNo=\count175
+\FV@CodeLineNo=\count182
 \FV@InFile=\read2
-\FV@TabBox=\box62
-\c@FancyVerbLine=\count176
-\FV@StepNumber=\count177
+\FV@TabBox=\box65
+\c@FancyVerbLine=\count183
+\FV@StepNumber=\count184
 \FV@OutFile=\write4
 )
-\c@inlinelisti=\count178
-\enitdp@inlinelist=\count179
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+\c@ContinuedFloat=\count185
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: listings package is loaded.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box66
+\beforetitleunit=\skip137
+\aftertitleunit=\skip138
+\ttl@plus=\dimen272
+\ttl@minus=\dimen273
+\ttl@toksa=\toks42
+\titlewidth=\dimen274
+\titlewidthlast=\dimen275
+\titlewidthfirst=\dimen276
+)
+\c@inlinelisti=\count186
+\enitdp@inlinelist=\count187
 
-No file main.aux.
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+ (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count180
-\scratchdimen=\dimen261
-\scratchbox=\box63
-\nofMPsegments=\count181
-\nofMParguments=\count182
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count183
-\MPscratchDim=\dimen262
-\MPnumerator=\count184
-\makeMPintoPDFobject=\count185
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count188
+\scratchdimen=\dimen277
+\scratchbox=\box67
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen278
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks44
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1089,8 +1158,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count186
-\AtBeginShipoutBox=\box64
+\c@lstlisting=\count194
+\AtBeginShipoutBox=\box68
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1126,549 +1195,107 @@ ABD: EveryShipout initializing macros
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: floatrow package is loaded.
+Package caption Info: End \AtBeginDocument code.
 
 LaTeX Warning: Citation `blei_prob_model_paper' on page 1 undefined on input li
-ne 57.
+ne 69.
 
 
 LaTeX Warning: Citation `blei_prob_model_paper' on page 1 undefined on input li
-ne 59.
+ne 71.
 
 
-LaTeX Warning: Citation `lda_blei' on page 1 undefined on input line 59.
+LaTeX Warning: Citation `lda_blei' on page 1 undefined on input line 71.
 
 
-LaTeX Warning: Citation `tm_lda' on page 1 undefined on input line 59.
+LaTeX Warning: Citation `tm_lda' on page 1 undefined on input line 71.
 
 
 LaTeX Warning: Citation `model_annotated_data' on page 1 undefined on input lin
-e 61.
+e 75.
 
 
-LaTeX Warning: Citation `corpus' on page 1 undefined on input line 65.
-
-
-LaTeX Warning: Citation `ptm' on page 1 undefined on input line 70.
+LaTeX Warning: Citation `ptm' on page 1 undefined on input line 79.
 
 
 LaTeX Warning: Citation `model_annotated_data' on page 1 undefined on input lin
-e 72.
+e 79.
 
 
-LaTeX Warning: Citation `corpus' on page 1 undefined on input line 76.
+LaTeX Warning: Citation `corpus' on page 1 undefined on input line 81.
 
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Reference `preprocessing' on page 2 undefined on input line 79.
-
-
-LaTeX Warning: Reference `Data Handling' on page 2 undefined on input line 85.
-
-
-LaTeX Warning: Reference `notations' on page 2 undefined on input line 90.
-
-
-LaTeX Warning: Reference `fig: model' on page 2 undefined on input line 95.
-
-
-LaTeX Warning: Reference `fig: model' on page 2 undefined on input line 115.
-
 [2]
 
-LaTeX Warning: Reference `derivation' on page 3 undefined on input line 170.
+LaTeX Warning: Citation `corpus' on page 3 undefined on input line 193.
 
-[3]
-
-LaTeX Warning: Reference `BHLDA output' on page 4 undefined on input line 197.
-
-
-LaTeX Warning: Reference `body lda output' on page 4 undefined on input line 19
-7.
-
-
-LaTeX Warning: Reference `headline lda output' on page 4 undefined on input lin
-e 197.
-
-
-LaTeX Warning: Reference `corpus output' on page 4 undefined on input line 201.
-
-
-
-LaTeX Warning: Reference `application' on page 4 undefined on input line 201.
-
-
-LaTeX Warning: Reference `ht' on page 4 undefined on input line 204.
-
-[4]
-
-LaTeX Warning: Reference `fig: priors' on page 5 undefined on input line 243.
-
-
-LaTeX Warning: Reference `Data Handling' on page 5 undefined on input line 256.
-
-
-
-LaTeX Warning: Reference `model' on page 5 undefined on input line 271.
-
-[5]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 326.
+[3] <snippet.jpeg, id=32, 706.64pt x 170.6375pt>
+File: snippet.jpeg Graphic file (type jpg)
+ <use snippet.jpeg>
+Package pdftex.def Info: snippet.jpeg used on input line 203.
+(pdftex.def)             Requested size: 452.9679pt x 109.38206pt.
+ [4 <./snippet.jpeg>] [5] [6]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 341.
 
  (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 326.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 341.
 
-
-LaTeX Warning: Reference `fig: model' on page 6 undefined on input line 332.
-
-[6] [7] [8]
-
-Package mdframed Warning: You got a bad break
-(mdframed)                because the last box will be empty
-(mdframed)                you have to change it manually
-(mdframed)                by changing the text, the space
-(mdframed)                or something else on input line 458.
-
-Package mdframed Info: Box was splittet wrong
- starting loop to iterate the splitting point
-(mdframed)              on input line 458.
-
-Overfull \vbox (1.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (2.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (3.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (4.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (5.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (6.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (7.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (8.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (9.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (10.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (11.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (12.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (13.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (14.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (15.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (16.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (17.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (18.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (19.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (20.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (21.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (22.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (23.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (24.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (25.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (26.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (27.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (28.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (29.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (30.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (31.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (32.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (33.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (34.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (35.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (36.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (37.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (38.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (39.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (40.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (41.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (42.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (43.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (44.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (45.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (46.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (47.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (48.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (49.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (50.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (51.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (52.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (53.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (54.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (55.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (56.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (57.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (58.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (59.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (60.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (61.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (62.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (63.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (64.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (65.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (66.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (67.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (68.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (69.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (70.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (71.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (72.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (73.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (74.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (75.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (76.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (77.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (78.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (79.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (80.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (81.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (82.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (83.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (84.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (85.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (86.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (87.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (88.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (89.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (90.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (91.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (92.02734pt too high) detected at line 458
+Overfull \hbox (10.74263pt too wide) in paragraph at lines 360--360
+[] 
  []
 
-
-Overfull \vbox (93.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (94.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (95.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (96.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (97.02734pt too high) detected at line 458
- []
-
-
-Overfull \vbox (98.02734pt too high) detected at line 458
+[7]
+Overfull \hbox (18.08797pt too wide) detected at line 420
+ []$[]  \OML/cmm/m/it/10 P\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 Z\OML/cmm/m/it/10 ;
+ []; \OT1/cmr/bx/n/10 W\OML/cmm/m/it/10 ; []\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 
+; ^^L\OT1/cmr/m/n/10 ) = [] [] [] []$ 
  []
 
-
-Overfull \vbox (99.02734pt too high) detected at line 458
+[8]
+Package mdframed Info: Not enough space on this page on input line 484.
+ [9]
+Package mdframed Info: Not enough space on this page on input line 484.
+ [10] [11] [12] [13] [14] [15] [16] [17] [18] (./corpus_output.txt
+[19] [20]) (./formatted_output_bodyOnly_LDA.txt [21] [22] [23] [24] [25]
+[26] [27] [28] [29] [30]) (./body_only_corpus_output.txt
+Overfull \hbox (9.0368pt too wide) in paragraph at lines 5--6
+[][][] 
  []
 
 
-Overfull \vbox (100.02734pt too high) detected at line 458
+Overfull \hbox (51.03723pt too wide) in paragraph at lines 7--8
+[][][] 
  []
-
-
-Package mdframed Warning: correct box splittet fails
- It seems you are using a non splittable contents
-(mdframed)                 on input line 458.
 
-Package mdframed Info: You first box width is to small
- mdframed fixed it
-(mdframed)              on input line 458.
-[9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
-(./results_body_only_topics.txt [19] [20] [21])
-(./results_headline_only_topics.txt [22] [23] [24]) [25] (./corpus_output.txt
-[26]) <plot.jpeg, id=108, 642.4pt x 481.8pt>
+) (./formatted_output_headOnly_LDA.txt [31] [32] [33] [34] [35] [36] [37]
+[38] [39] [40] [41]) (./head_only_corpus_output.txt)
+<plot.jpeg, id=156, 642.4pt x 481.8pt>
 File: plot.jpeg Graphic file (type jpg)
  <use plot.jpeg>
-Package pdftex.def Info: plot.jpeg used on input line 506.
+Package pdftex.def Info: plot.jpeg used on input line 547.
 (pdftex.def)             Requested size: 452.9679pt x 339.7352pt.
- [27]
+
 No file main.bbl.
-[28 <./plot.jpeg>] (./main.aux)
+[42] [43 <./plot.jpeg>] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 22675 strings out of 493117
- 432866 string characters out of 6135433
- 720600 words of memory out of 5000000
- 25766 multiletter control sequences out of 15000+600000
+ 24513 strings out of 493117
+ 463035 string characters out of 6135433
+ 626000 words of memory out of 5000000
+ 27580 multiletter control sequences out of 15000+600000
  11806 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,68p,10410b,1586s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,18n,92p,10410b,1586s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></
@@ -1689,10 +1316,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2014/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2014/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on main.pdf (28 pages, 414726 bytes).
+Output written on main.pdf (43 pages, 466729 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
+ 230 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
