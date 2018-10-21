@@ -11,10 +11,9 @@ The internet is full of [clickbaits](https://en.wikipedia.org/wiki/Clickbait). T
 
 
 ## Graphical Model
+<br>
+![](./docs/Model.jpg?raw=true)
 
-<br>
-![](./docs/Model.jpg?raw=true,style=centerme)
-<br>
 ## Generative Model
 ![](./docs/gen.png?raw=True)
 
