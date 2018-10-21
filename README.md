@@ -12,10 +12,10 @@ The internet is full of [clickbaits](https://en.wikipedia.org/wiki/Clickbait). T
 
 ## Graphical Model
 <br>
-![](./docs/Model.jpg?raw=true)
+![](./docs/Model.png)
 
 ## Generative Model
-![](./docs/gen.png?raw=True)
+![](./docs/gen.png)
 
 ## More Description
 More about the model, results, and application is discussed in [the final paper](./docs/main.pdf).
