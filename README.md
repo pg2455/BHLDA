@@ -9,10 +9,11 @@ The internet is full of [clickbaits](https://en.wikipedia.org/wiki/Clickbait). T
 ![](./docs/Model.png)
 ## Generative Model
 ![](./docs/gen.png)
-
 ## More Description
 More about the model, results, and application is discussed in [the final paper](./docs/main.pdf).
-## Dataset
+<br>
+Gibbs Sampling was used for this. The code (C++) is in [GibbsSampler](./GibbsSampler).
+## Dataset
 [The New York Times Annotated Corpus](https://catalog.ldc.upenn.edu/ldc2008t19) was used for the project.
 ## Result Snapsot
 The snapshot below shows the word distribution for a body topic and headline topic. These word distributions were manually matched and annotated with a reasonable category.
