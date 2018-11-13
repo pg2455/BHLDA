@@ -1,5 +1,5 @@
 # Body-Headline Latent Dirichilet Allocation
-I worked on this project as part of the course [STATS2014: Foundations of Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2014F/index.html)
+I and [Francois](https://www.linkedin.com/in/francoisfagan/) worked on this project as part of the course [STATS2014: Foundations of Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2014F/index.html). The code in [GibbsSampler](\GibbsSampler) is written by Francois. 
 <br>
 <b>Note:</b> The repository has not been well maintained. Please open an issue if there is something that needs to be explained.
 
