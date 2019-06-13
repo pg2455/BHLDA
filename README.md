@@ -5,7 +5,7 @@ I and [Francois](https://www.linkedin.com/in/francoisfagan/) worked on this proj
 
 ## Motivation
 The project aims at finding relevance of article headline to the article body using the extended model of Latent Dirichilet Allocation. <br>
-The internet is full of [clickbaits](https://en.wikipedia.org/wiki/Clickbait). The project was geared towards finding those articles which have catchy headlines but the content itself has a little relevance to the headline. The idea was to infer topic distributions for body and headline separately and compare the distance using [KL divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence).
+The internet is full of [clickbaits](https://en.wikipedia.org/wiki/Clickbait). This research aims at finding those articles which have catchy headlines but the content has a little relevance to it. The idea is to infer topic distributions for body and headline separately and find the distance using [KL divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence).
 ## Graphical Model
 ![](./docs/Model.png)
 ## Generative Model
