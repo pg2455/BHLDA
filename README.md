@@ -1,3 +1,5 @@
+![DOI](https://zenodo.org/badge/27828589.svg)](https://zenodo.org/badge/latestdoi/27828589)
+
 # Body-Headline Latent Dirichilet Allocation
 I and [Francois](https://www.linkedin.com/in/francoisfagan/) worked on this project as part of the course [STATS2014: Foundations of Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2014F/index.html). The code in [GibbsSampler](/GibbsSampler/) is written by Francois. 
 <br>
