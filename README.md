@@ -3,7 +3,6 @@
 # Body-Headline Latent Dirichilet Allocation
 This is the course project for [STATS2014: Foundations of Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2014F/index.html) undertaken by [Francois](https://www.linkedin.com/in/francoisfagan/) and myself. The C++ code in [GibbsSampler](/GibbsSampler/) is written by Francois. 
 <br>
-<b>Note:</b> The repository has not been well maintained. Please open an issue if there is something that needs to be explained.
 
 ## Motivation
 The project aims at finding relevance of article headline to the article body using the extended model of Latent Dirichilet Allocation. <br>
